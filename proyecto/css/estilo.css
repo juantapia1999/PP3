@@ -1,0 +1,32 @@
+body {
+  background-color: white;
+  border:1px solid gray;
+}
+#fecha{
+  border: none;
+  font-size: 100%;
+  border-top:5px solid rgb(246, 117, 7);
+  background-color: white;
+  float:right;
+}
+.nombre-software {
+  color: black;
+  padding:1% 1% 1% 5%;
+  border:5px solid rgb(246, 117, 7);
+  border-right:solid white;
+  border-left:solid white;
+  font-size:250%;
+  background: white;
+}
+
+#sign-up{
+  font-size: 80%;
+}
+
+.item-menu{
+  padding-bottom: 2%;
+}
+
+.campo{
+  font-style: oblique
+}
